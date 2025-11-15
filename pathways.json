@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Introduction to Biomedical Data Science",
+    "modules": [
+      {
+        "title": "Fundamentals of Bioinformatics",
+        "url": "https://github.com/NIGMS/Fundamentals-of-Bioinformatics"
+      },
+      {
+        "title": "Introduction to Data Science for Biology",
+        "url": "https://github.com/NIGMS/Introduction-to-Data-Science-for-Biology"
+      },
+      {
+        "title": "Introduction to Python for Biology",
+        "url": "https://github.com/NIGMS/Foundations-of-Python-for-Data-Science"
+      },
+      {
+        "title": "Introduction to R and LLMs for Biology",
+        "url": "https://github.com/NIGMS/Data-Science-Foundations-in-R"
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Biomedical Machine Learning and Artificial Intelligence",
+    "modules": [
+      {
+        "title": "Python and ML for Biomedical Data Science",
+        "url": "https://github.com/NIGMS/AI-ML-For-Biomedical-Researchers"
+      },
+      {
+        "title": "Analysis of Biomedical Data for Biomarker Discovery",
+        "url": "https://github.com/NIGMS/Analysis-of-Biomedical-Data-for-Biomarker-Discovery"
+      },
+      {
+        "title": "Biomedical Imaging Analysis using AI/ML approaches",
+        "url": "https://github.com/NIGMS/Biomedical-Imaging-Analysis-using-AI-ML-Approaches"
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Biomedical Genomics",
+    "modules": [
+      {
+        "title": "Consensus Pathway Analysis in the Cloud",
+        "url": "https://github.com/NIGMS/Consensus-Pathway-Analysis-in-the-Cloud"
+      },
+      {
+        "title": "DNA Methylation Sequencing Analysis with WGBS",
+        "url": "https://github.com/NIGMS/DNA-Methylation-Sequencing-Analysis-with-WGBS"
+      },
+      {
+        "title": "ATAC-Seq and Single Cell ATAC-Seq Analysis",
+        "url": "https://github.com/NIGMS/ATAC-Seq-and-Single-Cell-ATAC-Seq-Analysis"
+      },
+      {
+        "title": "Chromatin Occupancy with Cut and Run",
+        "url": "https://github.com/NIGMS/Chromatin-Occupancy"
+      },
+      {
+        "title": "Integrating Multi-Omics Datasets",
+        "url": "https://github.com/NIGMS/Integrating-Multi-Omics-Datasets"
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Metagenomics and Phylogenetics",
+    "modules": [
+      {
+        "title": "Introduction to Amplicon-based Metagenomics",
+        "url": "https://github.com/NIGMS/16SrRNA-Microbial-Analysis"
+      },
+      {
+        "title": "Introduction to Phylogenetics",
+        "url": "https://github.com/NIGMS/Introduction-to-Phylogenetics"
+      },
+      {
+        "title": "Introduction to Population Genomics",
+        "url": "https://github.com/NIGMS/Population-Genomics-and-Phylogenetics-with-RADseq"
+      },
+      {
+        "title": "Comparative Prokaryotic Genomics",
+        "url": "https://github.com/NIGMS/Comparative-Microbial-Genomics"
+      },
+      {
+        "title": "Introduction to Pangenomic Methods",
+        "url": "https://github.com/NIGMS/Intro-to-Pangenomics"
+      },
+      {
+        "title": "Metagenomics Analysis of Biofilm-Microbiome",
+        "url": "https://github.com/NIGMS/Metagenomics-Analysis-of-Biofilm-Microbiome"
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Proteomics",
+    "modules": [
+      {
+        "title": "Proteome Quantification",
+        "url": "https://github.com/NIGMS/Proteome-Quantification"
+      },
+      {
+        "title": "Proteome Structures and Docking",
+        "url": "https://github.com/NIGMS/Proteome-Quantification"
+      }
+    ]
+  },
+  {
+    "name": "Introduction to RNAseq and Transcriptome Assembly",
+    "modules": [
+      {
+        "title": "Explore RNA methylation using MeRIP-seq",
+        "url": "https://github.com/NIGMS/RNA-Methylation-with-MeRIP-seq"
+      },
+      {
+        "title": "RNAseq Differential Expression Analysis",
+        "url": "https://github.com/NIGMS/RNA-Seq-Differential-Expression-Analysis"
+      },
+      {
+        "title": "Transcriptome Assembly Refinement and Applications",
+        "url": "https://github.com/NIGMS/Transcriptome-Assembly-Refinement-and-Applications"
+      },
+      {
+        "title": "scRNASeq, miRNASeq, and Transcription Factors",
+        "url": "https://github.com/NIGMS/Bulk-and-Single-Cell-RNAseq"
+      }
+    ]
+  }
+]
