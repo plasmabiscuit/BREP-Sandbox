@@ -2,10 +2,10 @@
 
 ## [Introduction to Biomedical Data Science](./introduction-to-biomedical-data-science/README.md)
 
-- [Fundamentals of Bioinformatics](https://github.com/NIGMS/Fundamentals-of-Bioinformatics)
-- [Introduction to Data Science for Biology](https://github.com/NIGMS/Introduction-to-Data-Science-for-Biology)
-- [Introduction to Python for Biology](https://github.com/NIGMS/Foundations-of-Python-for-Data-Science)
-- [Introduction to R and LLMs for Biology](https://github.com/NIGMS/Data-Science-Foundations-in-R)
+- [Fundamentals of Bioinformatics-Bash](https://github.com/plasmabiscuit/Fundamentals-of-Bioinformatics)
+- [Introduction to Data Science for Biology](https://github.com/plasmabiscuit/Introduction-to-Data-Science-for-Biology)
+- [Foundations of Python for Biology](https://github.com/plasmabiscuit/Foundations-of-Python-for-Data-Science)
+- [Data Science Foundaations- R](https://github.com/plasmabiscuit/Data-Science-Foundations-in-R)
 
 ## [Introduction to Biomedical Machine Learning and Artificial Intelligence](./introduction-to-biomedical-machine-learning-and-artificial-intelligence/README.md)
 
